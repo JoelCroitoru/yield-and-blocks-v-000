@@ -10,4 +10,4 @@ def hello_t(array)
     puts "Hey! No block was given!"
   end
 end
-hello_t([1,2,3,4])
+
